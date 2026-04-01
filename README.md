@@ -82,7 +82,7 @@
 
 2. **Скриншот таблицы с преобразованными данными** в целевой БД.
 <img width="1603" height="454" alt="postgresql_columnsrows" src="https://github.com/user-attachments/assets/4a107ccc-a455-408a-8b37-0d1da95d3e81" />
-
+3. **dbt test**
 <img width="1636" height="521" alt="dbt_test" src="https://github.com/user-attachments/assets/960f3e4f-a801-4085-8c69-a551c88f0e72" />
 
 
